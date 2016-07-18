@@ -1,5 +1,6 @@
 .text {
-	position:relative;
-	top:1000px;
+	/*position:absolute;*/
+	margin-top:7000px;
+	left:500px;
 	margin:auto;
 }
